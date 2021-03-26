@@ -1,5 +1,0 @@
-1. Subset orders with present TrolleyID ---- done
-2. Robot orders vs total orders - represents robot usage (do in percent) --- done
-3. Check mission logs that are faulty - deduce reasons of failures and quantify them
-4. Evaluate fail occurance by robot and shift type
-5. Make conclusions
